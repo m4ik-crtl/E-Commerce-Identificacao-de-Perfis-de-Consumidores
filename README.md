@@ -8,7 +8,7 @@ Este projeto de ciência de dados realiza uma segmentação completa de clientes
 ## ✨ Links Importantes
 - **[Dashboard Interativo no Tableau Public](https://public.tableau.com/views/Ecommerce-Dashboard_17576889597680/Ecommerce-Painel?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 - **[Notebook Completo no Google Colab](https://colab.research.google.com/drive/1j8m_Bp00YdKAVmLL7tvH9OL2kT1Lmzye?usp=sharing)**
-*Observação: O notebook é extenso e pode não ser renderizado corretamente no GitHub. Recomenda-se o uso do Google Colab.*
+- **[Dataset Completo](https://docs.google.com/spreadsheets/d/1B9FZnNZt9rWR9D4emTTH3Uei_J45ZJDZvdqwpieDPwY/edit?usp=sharing)**
 
 ---
 
